@@ -1,0 +1,7 @@
+C:\Users\lucas.gomes\source\repos\atividade01ponto_1\atividade01ponto_1\obj\Debug\atividade01ponto_1.csproj.AssemblyReference.cache
+C:\Users\lucas.gomes\source\repos\atividade01ponto_1\atividade01ponto_1\obj\Debug\atividade01ponto_1.csproj.CoreCompileInputs.cache
+C:\Users\lucas.gomes\source\repos\atividade01ponto_1\atividade01ponto_1\bin\Debug\atividade01ponto_1.exe.config
+C:\Users\lucas.gomes\source\repos\atividade01ponto_1\atividade01ponto_1\bin\Debug\atividade01ponto_1.exe
+C:\Users\lucas.gomes\source\repos\atividade01ponto_1\atividade01ponto_1\bin\Debug\atividade01ponto_1.pdb
+C:\Users\lucas.gomes\source\repos\atividade01ponto_1\atividade01ponto_1\obj\Debug\atividade01ponto_1.exe
+C:\Users\lucas.gomes\source\repos\atividade01ponto_1\atividade01ponto_1\obj\Debug\atividade01ponto_1.pdb
